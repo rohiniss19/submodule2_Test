@@ -1,0 +1,9 @@
+[submodule "Folder_1/submodule2"]
+	path = Folder_1/submodule2
+	url = https://github.com/rohiniss19/submodule2.git
+[submodule "Folder_1/submodule"]
+	path = Folder_1/submodule
+	url = https://github.com/rohiniss19/submodule.git
+[submodule "Folder_3/new2"]
+	path = Folder_3/new2
+	url = https://github.com/rohiniss19/new2.git
