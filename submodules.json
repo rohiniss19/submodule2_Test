@@ -1,17 +1,17 @@
 {
     "submodules": [{
             "name": "submodule",
-            "path": "Folder_1/submodule"
+            "path": "Folder_1/submodule",
             "Tag_Prefix": "sub"
         },
         {
             "name": "submodule2",
-            "path": "Folder_1/submodule2"
+            "path": "Folder_1/submodule2",
             "Tag_Prefix": "sub2"
         },
         {
             "name": "new2",
-            "path": "Folder_3/new2"
+            "path": "Folder_3/new2",
             "Tag_Prefix": "new2"
         }
     ]
